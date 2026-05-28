@@ -1,1 +1,3 @@
 Sistema de pagos
+
+Se agrega validación de pagos.
